@@ -14,7 +14,7 @@
 <ul>
 <li>Fork, remix, and adapt this project to use with your learners.  </li>
   <li>Build upon this project with new lessons, apps, remixes, etc.</li>
-<li>Visit the <a href="https://github.com/open-austin/budgetparty">Budget Party Repo</a>and discover ways to get involved</li>
+<li>Visit the <a href="https://github.com/open-austin/budgetparty">Budget Party Repo</a> and discover ways to get involved</li>
 <li>Test out this curriculum with your learners and provide feedback</li>
 <li> This curriculum was initially written for learners in the Austin area, but we are eager to adapt and grow this beyond Austin. If you are outside Austin and are interested in adapting this project, <a href="mailto:info@nucleuslearningnetwork.org">get in touch</a> with questions and ideas</li>
 </ul>
