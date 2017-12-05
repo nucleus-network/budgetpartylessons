@@ -1,4 +1,4 @@
-# Contributing to Mission:Information
+# Contributing to the Budget Party Curriculum 
 
 :+1: :tada: First off, thanks for taking the time to contribute! :tada: :+1:
 
@@ -11,9 +11,6 @@ This project adheres to the Contributor Covenant [code of conduct](CONTRIBUTING.
 
 ### README
 Our [README](README.md) is the first place you should go, if you haven't already. If you have questions about the goals or purpose of the project, we'd be happy to clarify. [Create an issue](https://github.com/nucleus-network/missioninfo/issues/new) and mark it with the "question" label.
-
-### Roadmap
-Our <a href="https://fakenews.open-austin.org/ ">Roadmap</a> is written to give you an idea of the current status of the project. Check it out to see what we are up to, our past milestones, and upcoming targets!
 
 ### Communication
 We communicate in a couple different ways:
