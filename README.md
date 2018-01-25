@@ -4,7 +4,7 @@
 ### :wave: :tada: Hello and welcome! :tada: :wave:
 
 <p><strong>What is Budget Party?</strong></p>
-<p>Budget Party is an open-source and interactive participatory budgeting game that helps people learn more about how the Austin city budget is created, have some fun while doing so. You can play the <a href="https://austinbudget.party/home">Budget Party Game</a> for free online and check out the <a href="https://github.com/open-austin/budgetparty">Budget Party Repo</a> for more information. </p> 
+<p>Budget Party is an open-source and interactive participatory budgeting game that helps people learn more about how the Austin city budget is created and have some fun while doing so. You can play the <a href="https://austinbudget.party/home">Budget Party Game</a> for free online and check out the <a href="https://github.com/open-austin/budgetparty">Budget Party Repo</a> for more information. </p> 
 <p><strong>Who created Budget Party?</strong></p>
 <p>Budget Party was developed by Open Austin in partnership with the Austin Monitor, Mozilla, and an Austin ISD educator.</p>
 <p><strong>What is the Budget Party Curriculum?</strong></p>
